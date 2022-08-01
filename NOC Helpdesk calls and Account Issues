@@ -1,7 +1,7 @@
-NOC Helpdesk calls and Account Issues
+# NOC Helpdesk calls and Account Issues
 ======================================================================
-Overview
-This service assist over the phone for account issues such as account lockouts/ password resets, VPN, VDI and more through effective, professional, and caring support.  
+## Overview
+**This service assist over the phone for account issues such as account lockouts/ password resets, VPN, VDI and more through effective, professional, and caring support.  
 Process
 When an incoming call comes through the phone routing system, NOC personal are to answer by identifying themselves and their department in a friendly-professional manner. NOC assist with any issues the caller is having or escalate to a support team that can resolve the problem. 
 
@@ -13,26 +13,27 @@ More Information
 More information for this service can be found on the wiki for this service.
 =====================================================================================
 
-Team
+## Team
 •	Judith Jenkins, NOC Manager 
 •	Donna Smith, Sr Director 
 =====================================================================================
-Indicators
+## Indicators
 •	Availability - The service needs to be available 24/7 12am-12 pm Sunday-Sunday.
 •	Response Time – Each phone call should be answered within 5 minutes.
 •	Request-based = Calls answered / total calls- Measure the number of incoming calls answered versus the total number of calls. 
 =================================================================================================================================
+## Objectives
 •	Availability - 99.9% availability 12am - 12pm M-F excluding holidays.
 •	Response Time – 99.9% of all incoming calls will be answered within 5 minutes.
 •	Request-based SLI = Calls answered / total calls - 99% of all calls should be answered out of the total. 
 ==============================================================================================================
-Agreements
+## Agreements
 •	Availability - 95% availability 12am - 12pm S-S.
 •	Response Time - 90% of all triage requests will be completed within 5 minutes.
 •	Request-based SLI = Calls answered / total calls- 95% of all calls would be answered out of the total.
 ==============================================================================================================
-Quick Links
+## Quick Links
 
 ========================================================================================================
-Contact 
+## Contact 
 •	Cambrel.mcgirt@lexisnexisrisk.com
